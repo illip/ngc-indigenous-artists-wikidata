@@ -2,7 +2,7 @@
 
 ## Introduction
 
-During the [*Edit-a-thon for Indigenous Artists Biographies*](https://www.gallery.ca/research/library-archives/edit-a-thons) held at the *National Gallery of Canada* (NGC) on March 5th 2020, the particpants received a list of Canadian Indigenous Artists for who the biographiphies need enhancement. In parallel of this work, we decided to check if these artists were also well documented on Wikidata.
+During the [*Edit-a-thon for Indigenous Artists Biographies*](https://www.gallery.ca/research/library-archives/edit-a-thons) held at the *National Gallery of Canada* (NGC) on March 5th 2020, the particpants received a list of Canadian Indigenous Artists for who the biographies need enhancement. In parallel of this work, we decided to check if these artists were also well documented on Wikidata.
 
 ## List of artists
 
