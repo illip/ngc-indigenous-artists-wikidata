@@ -46,5 +46,5 @@ Here is the list of artists provided by the NGC that we are aiming to document p
 
 ## Documents
 
-* The checklist in csv format is available [here on GitHub](https://github.com/illip/ngc-indigenous-artists-wikidata/blob/master/NGC_IndigenousArtists_WikidataEntries_Checklist_20200320.csv)
+* The checklist in csv format is available [here on GitHub](https://github.com/illip/ngc-indigenous-artists-wikidata/blob/master/NGC_IndigenousArtists_WikidataEntries_Checklist.csv)
 * The checklist is also available in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1lvY8zNuDIKMe9y4Vdebd009RgG_njgn1ojPqNUq9qUk/edit?usp=sharing) ("can comment" access) The yellow cells in this document represent the data that we have contributed.
