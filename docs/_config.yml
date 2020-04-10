@@ -1,3 +1,5 @@
+title: Collections Model Documentation
+description: All the document related to the CHIN's Collection Model Documentation
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
