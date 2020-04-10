@@ -1,3 +1,7 @@
+p {
+  text-align: justify;
+}
+
 # Introduction
 
 ## Purpose of the Target Model
