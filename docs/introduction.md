@@ -8,16 +8,8 @@ The scope of this project is to consolidate, in unique records, the information 
 
 That said, specific museums may document targeted or niche aspects of an actor's life or object, aspects that are relevant solely to that museum (e.g. a museum dedicated to firefighters might document the level of first-aid training an actor received). The Actors and/or Collections models will not model such specific information in order to  avoid unnecessary complexity as many museums will have individual needs that are not shared by their counterparts. See the closed Issue #19 for the detailed discussion about this topic.
 
-<table>
-  <tr>
-   <td>🔎
-   </td>
-   <td><em>To Be Discussed</em>
-<p>
-This is discussed on <a href="https://github.com/chin-rcip/chin-rcip/issues/19">CHIN’s Github Issue #19</a>.
-   </td>
-  </tr>
-</table>
+>🔎To Be Discussed
+>This is discussed on CHIN’s [Github Issue #19](https://github.com/chin-rcip/chin-rcip/issues/19)
 
 The first challenge will be to standardize into a single format data that will be varied in structure, format and languages when collecting and aggregating them. The second and most ambitious challenge will be to reconcile data coming from numerous and varied sources. Reconciling, here, implies two main steps:
 
