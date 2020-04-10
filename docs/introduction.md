@@ -1,3 +1,5 @@
+<div style="text-align: right"> 
+
 # Introduction
 
 ## Purpose of the Target Model
@@ -107,5 +109,7 @@ For example, the triples mapped to the gender pattern mentioned above would look
 
 ![convention_5](https://user-images.githubusercontent.com/48293227/78846668-7de1c180-79da-11ea-801c-f735185662e1.jpg)
 
-In this diagram, each instance (the instances of Jean Paul Riopelle, of the gender Male, and of the type Gender) are linked together through properties in accordance with the structure of the corresponding pattern in the model.
+In this diagram, each instance (the instances of Jean Paul Riopelle, of the gender Male, and of the type Gender) are linked together through properties in accordance with the structure of the corresponding pattern in the model. 
+
+</div>
 
