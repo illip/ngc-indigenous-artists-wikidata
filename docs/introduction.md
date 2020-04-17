@@ -4,8 +4,6 @@
 
 In keeping with its mandate to “assist Canadian museums in documenting, managing, and sharing information about their collections”, the Canadian Heritage Information Network (CHIN) plans to provide the resources it creates and the data it aggregates in linked open data (LOD) [(Canadian Heritage Information Network (CHIN) 2019)](https://www.zotero.org/google-docs/?SqR3pI). This is in order to contribute to the breaking of data silos and give better access to Canadian heritage information online. Before modernising Artefacts Canada (AC) by converting it in accordance with LOD principles, CHIN will work on a smaller scale project titled *SemMuse Actors* (Actors), which will later be part of the larger Collections model supporting Artefacts Canada.
 
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
-<!DOCTYPE html>
 <html>
 <head>
 <title>Conventions_2</title>
