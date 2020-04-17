@@ -2,41 +2,13 @@
 
 ## Purpose of the Target Model
 
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2020-04-17T15:53:08.818Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36\&quot; etag=\&quot;rX6k9cBswhtM9rfHQvPJ\&quot; version=\&quot;12.9.14\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;QOot0nk_c6HzNS4jha7X\&quot; name=\&quot;Page-1\&quot;&gt;1Zjvc5owGMf/Gl5uhwQwfauybl135529W/sywgNkDcSLsUr/+iUSBBbr2qurTO+UfJ/8IN8PeRJ10LTYXQuyyn/wBJjjucnOQTPH88bYU59aqGrBR+NayARNamnUCgv6DEZ0jbqhCax7FSXnTNJVX4x5WUIsexoRgm/71VLO+qOuSAaWsIgJs9WfNJG5UUfhVRv4CjTLzdDYM/MrSFPZzGSdk4RvOxKKHDQVnMv6qthNgWnvGl/qdl9eiB5uTEApX9VA3OJnnt/z6Gb+/ebxW1XM3E+mlyfCNmbCke7ZnYNY89LcuKwaNwTflAnoDkcOmmxzKmGxIrGObhV+peWyYCacUsamnHGxb4tSHEMcK30tBX+ETmSJAz9wVcSeUnN/ICTsOpKZ4jXwAqSoVBUTxcZt87gd3N924DVa3uEWGo2Y5yU79Nxaqi6Mq29wGFkOz6+wEpbKSz26al5Krr4YTcEyHBL1NJoiFzLnGS8Ji1p10iLRDrZ1bjlfGRC/QMrKLC2yUYP1MCmvRXXfLTzozj4HTXG2M53XpcqUXoS15hsRwwlLTEqQRGQg//5wag9OohfAiKRP/RV7dpCBDXJcZ6NH7QPTy0ANKy/K0B0aQ39QDK9shr5OBGogNRdawKf1ithp70MJttAeeswuRTAcFEHPIngXLe4cL2RqDpOlUFeZvopCvTgnVJE46y6WEMDp0V0sjDEs0/PsYsgf2jbmW74fPG8sN2a78zoV1lE12KHCEUoBahuck1IAOPGPUcLeEoXheSiF7tAoNafmboLDHtHHDchoaQPgqU4BObQ1LpD6dlTWmc8LTPGhE2oTny68P++Fr8x740HlvZF9Uldkl/oGy+Qk1338klTHQ6KKB0U1tKBGgRbu9FFkcewo8q5fYIF+H9279i/dgpeyo9evf7OnoQBdOFuOX7+nzYjUa2nSzaKnt7b7xezQ7j0Mz+C894fzPr70PoXf7HzUZrn/xnf/A31XxfavpH2s838cin4D&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/js/viewer.min.js"></script>
+
 <div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1HILva7PuFDfsCg5daNYxTva-BtlwTjBg&amp;export=download&quot;}"></div>
 <script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HILva7PuFDfsCg5daNYxTva-BtlwTjBg%26export%3Ddownload"></script>
 
 In keeping with its mandate to “assist Canadian museums in documenting, managing, and sharing information about their collections”, the Canadian Heritage Information Network (CHIN) plans to provide the resources it creates and the data it aggregates in linked open data (LOD) [(Canadian Heritage Information Network (CHIN) 2019)](https://www.zotero.org/google-docs/?SqR3pI). This is in order to contribute to the breaking of data silos and give better access to Canadian heritage information online. Before modernising Artefacts Canada (AC) by converting it in accordance with LOD principles, CHIN will work on a smaller scale project titled *SemMuse Actors* (Actors), which will later be part of the larger Collections model supporting Artefacts Canada.
-
-### Copy
-
-<html>
-<head>
-<title>Conventions_2</title>
-<meta charset="utf-8"/>
-</head>
-<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2020-04-17T12:10:27.929Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36\&quot; etag=\&quot;k_jMvL4KraQhow5neRmh\&quot; version=\&quot;12.9.14\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;QOot0nk_c6HzNS4jha7X\&quot; name=\&quot;Page-1\&quot;&gt;1Vhdb5swFP01PHYiGIj7moR16zopUiatfXTgAl4NjhynCf31s4MJMKdZq2YNI1Jin+vrj3Psex0cNC12N4Ks8u88AeZ4brJz0MzxvDH21LcGqhrw0bgGMkGTGhq1wII+gwFdg25oAuteQ8k5k3TVB2NelhDLHkaE4Nt+s5Sz/qgrkoEFLGLCbPQnTWRu0FF43Rq+AM1yMzT2zPoK0jQ2K1nnJOHbDoQiB00F57IuFbspMM1dw0vt9/kF62FiAkr5Kgdxh595fs+j2/m328evVTFzr0wvT4RtzIIj3bM7B7HmpZm4rBo2BN+UCegORw6abHMqYbEisbZulfwKy2XBjDmljE0542Lvi1IcQxwrfC0Ff4SOZYkDP3CVxV5SMz8QEnYdyCzxBngBUlSqibFiw7bZbgf2tx3xGizv6BYajJj9kh16bilVBcPqGxhGFsPza6yApeJSj67cS8nVD6MpWIRDonajqXIhc57xkrCoRSetJJrBts0d5ysjxC+QsjJHi2zUYD2ZFNeiuu9WHnRnn4KmOtuZzutaZWovirXmGxHDCUpMSJBEZCD/vjk1ByelF8CIpE/9E3t2IQNbyHEdjR41D0wfAzWsvKiG7tA09Ael4bWtoa8DgRpIrYUWcLVeETvsfaiCrWgPPc0upWA4KAU9O2GF+hhOqOL8rPkqIYDTo/kqjDEs0/PkK+QPLWH5FsOOFzI16mSpCpkuGLLdeR30aqsa7NDg4CEaJApQ63BOlQLAiX9MJewtURieR6XQHZpKzf24G8qwR/TFAjJa2gLwVB/2HNoWFwhyOyrrGOcFpvrQMbUhTlfeH+HCV0a48aAi3Mi+kytll3qCZXJS1739kqqOh6QqHpSqoZ23Ag380JeOxbFLx7v+awX6czR37R/twUvZwevn3+Q0FKALR8vx63PajEh9libdKHo6td0vZge/92h4Bua9P5j38aXzFH4z81Eb5f4b3v0P5F1V25dGe1vnzRuKfgM=&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
-<script type="text/javascript" src="https://app.diagrams.net/js/viewer.min.js"></script>
-</body>
-</html>
-
-### Public link
-
-<html>
-<head>
-<title>Conventions_2</title>
-<meta charset="utf-8"/>
-</head>
-<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1HILva7PuFDfsCg5daNYxTva-BtlwTjBg&amp;export=download&quot;}"></div>
-<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HILva7PuFDfsCg5daNYxTva-BtlwTjBg%26export%3Ddownload"></script>
-</body>
-</html>
-
-### Copy without script and title
-
-<html>
-<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2020-04-17T12:10:27.929Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36\&quot; etag=\&quot;k_jMvL4KraQhow5neRmh\&quot; version=\&quot;12.9.14\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;QOot0nk_c6HzNS4jha7X\&quot; name=\&quot;Page-1\&quot;&gt;1Vhdb5swFP01PHYiGIj7moR16zopUiatfXTgAl4NjhynCf31s4MJMKdZq2YNI1Jin+vrj3Psex0cNC12N4Ks8u88AeZ4brJz0MzxvDH21LcGqhrw0bgGMkGTGhq1wII+gwFdg25oAuteQ8k5k3TVB2NelhDLHkaE4Nt+s5Sz/qgrkoEFLGLCbPQnTWRu0FF43Rq+AM1yMzT2zPoK0jQ2K1nnJOHbDoQiB00F57IuFbspMM1dw0vt9/kF62FiAkr5Kgdxh595fs+j2/m328evVTFzr0wvT4RtzIIj3bM7B7HmpZm4rBo2BN+UCegORw6abHMqYbEisbZulfwKy2XBjDmljE0542Lvi1IcQxwrfC0Ff4SOZYkDP3CVxV5SMz8QEnYdyCzxBngBUlSqibFiw7bZbgf2tx3xGizv6BYajJj9kh16bilVBcPqGxhGFsPza6yApeJSj67cS8nVD6MpWIRDonajqXIhc57xkrCoRSetJJrBts0d5ysjxC+QsjJHi2zUYD2ZFNeiuu9WHnRnn4KmOtuZzutaZWovirXmGxHDCUpMSJBEZCD/vjk1ByelF8CIpE/9E3t2IQNbyHEdjR41D0wfAzWsvKiG7tA09Ael4bWtoa8DgRpIrYUWcLVeETvsfaiCrWgPPc0upWA4KAU9O2GF+hhOqOL8rPkqIYDTo/kqjDEs0/PkK+QPLWH5FsOOFzI16mSpCpkuGLLdeR30aqsa7NDg4CEaJApQ63BOlQLAiX9MJewtURieR6XQHZpKzf24G8qwR/TFAjJa2gLwVB/2HNoWFwhyOyrrGOcFpvrQMbUhTlfeH+HCV0a48aAi3Mi+kytll3qCZXJS1739kqqOh6QqHpSqoZ23Ag380JeOxbFLx7v+awX6czR37R/twUvZwevn3+Q0FKALR8vx63PajEh9libdKHo6td0vZge/92h4Bua9P5j38aXzFH4z81Eb5f4b3v0P5F1V25dGe1vnzRuKfgM=&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
-</body>
-</html>
 
 The scope of this project is to consolidate, in unique records, the information pertaining to actors related to objects from Canadian museums collections. An actor includes any individual (artist, artisan, etc.) or group (manufacturer, group of artists, etc.) who took part in the creation of or is related to artefacts collected by Canadian museums.
 
