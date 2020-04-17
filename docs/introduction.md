@@ -2,6 +2,9 @@
 
 ## Purpose of the Target Model
 
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1HILva7PuFDfsCg5daNYxTva-BtlwTjBg&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HILva7PuFDfsCg5daNYxTva-BtlwTjBg%26export%3Ddownload"></script>
+
 In keeping with its mandate to “assist Canadian museums in documenting, managing, and sharing information about their collections”, the Canadian Heritage Information Network (CHIN) plans to provide the resources it creates and the data it aggregates in linked open data (LOD) [(Canadian Heritage Information Network (CHIN) 2019)](https://www.zotero.org/google-docs/?SqR3pI). This is in order to contribute to the breaking of data silos and give better access to Canadian heritage information online. Before modernising Artefacts Canada (AC) by converting it in accordance with LOD principles, CHIN will work on a smaller scale project titled *SemMuse Actors* (Actors), which will later be part of the larger Collections model supporting Artefacts Canada.
 
 ### Copy
@@ -16,7 +19,7 @@ In keeping with its mandate to “assist Canadian museums in documenting, managi
 </body>
 </html>
 
-###Public link
+### Public link
 
 <html>
 <head>
