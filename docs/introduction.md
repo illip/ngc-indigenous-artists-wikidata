@@ -4,6 +4,18 @@
 
 In keeping with its mandate to “assist Canadian museums in documenting, managing, and sharing information about their collections”, the Canadian Heritage Information Network (CHIN) plans to provide the resources it creates and the data it aggregates in linked open data (LOD) [(Canadian Heritage Information Network (CHIN) 2019)](https://www.zotero.org/google-docs/?SqR3pI). This is in order to contribute to the breaking of data silos and give better access to Canadian heritage information online. Before modernising Artefacts Canada (AC) by converting it in accordance with LOD principles, CHIN will work on a smaller scale project titled *SemMuse Actors* (Actors), which will later be part of the larger Collections model supporting Artefacts Canada.
 
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Conventions_2</title>
+<meta charset="utf-8"/>
+</head>
+<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2020-04-17T12:10:27.929Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36\&quot; etag=\&quot;k_jMvL4KraQhow5neRmh\&quot; version=\&quot;12.9.14\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;QOot0nk_c6HzNS4jha7X\&quot; name=\&quot;Page-1\&quot;&gt;1Vhdb5swFP01PHYiGIj7moR16zopUiatfXTgAl4NjhynCf31s4MJMKdZq2YNI1Jin+vrj3Psex0cNC12N4Ks8u88AeZ4brJz0MzxvDH21LcGqhrw0bgGMkGTGhq1wII+gwFdg25oAuteQ8k5k3TVB2NelhDLHkaE4Nt+s5Sz/qgrkoEFLGLCbPQnTWRu0FF43Rq+AM1yMzT2zPoK0jQ2K1nnJOHbDoQiB00F57IuFbspMM1dw0vt9/kF62FiAkr5Kgdxh595fs+j2/m328evVTFzr0wvT4RtzIIj3bM7B7HmpZm4rBo2BN+UCegORw6abHMqYbEisbZulfwKy2XBjDmljE0542Lvi1IcQxwrfC0Ff4SOZYkDP3CVxV5SMz8QEnYdyCzxBngBUlSqibFiw7bZbgf2tx3xGizv6BYajJj9kh16bilVBcPqGxhGFsPza6yApeJSj67cS8nVD6MpWIRDonajqXIhc57xkrCoRSetJJrBts0d5ysjxC+QsjJHi2zUYD2ZFNeiuu9WHnRnn4KmOtuZzutaZWovirXmGxHDCUpMSJBEZCD/vjk1ByelF8CIpE/9E3t2IQNbyHEdjR41D0wfAzWsvKiG7tA09Ael4bWtoa8DgRpIrYUWcLVeETvsfaiCrWgPPc0upWA4KAU9O2GF+hhOqOL8rPkqIYDTo/kqjDEs0/PkK+QPLWH5FsOOFzI16mSpCpkuGLLdeR30aqsa7NDg4CEaJApQ63BOlQLAiX9MJewtURieR6XQHZpKzf24G8qwR/TFAjJa2gLwVB/2HNoWFwhyOyrrGOcFpvrQMbUhTlfeH+HCV0a48aAi3Mi+kytll3qCZXJS1739kqqOh6QqHpSqoZ23Ag380JeOxbFLx7v+awX6czR37R/twUvZwevn3+Q0FKALR8vx63PajEh9libdKHo6td0vZge/92h4Bua9P5j38aXzFH4z81Eb5f4b3v0P5F1V25dGe1vnzRuKfgM=&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/js/viewer.min.js"></script>
+</body>
+</html>
+
 The scope of this project is to consolidate, in unique records, the information pertaining to actors related to objects from Canadian museums collections. An actor includes any individual (artist, artisan, etc.) or group (manufacturer, group of artists, etc.) who took part in the creation of or is related to artefacts collected by Canadian museums.
 
 That said, specific museums may document targeted or niche aspects of an actor's life or object, aspects that are relevant solely to that museum (e.g. a museum dedicated to firefighters might document the level of first-aid training an actor received). The Actors and/or Collections models will not model such specific information in order to  avoid unnecessary complexity as many museums will have individual needs that are not shared by their counterparts. See the closed Issue #19 for the detailed discussion about this topic.
@@ -107,4 +119,4 @@ For example, the triples mapped to the gender pattern mentioned above would look
 
 ![convention_5](https://user-images.githubusercontent.com/48293227/78846668-7de1c180-79da-11ea-801c-f735185662e1.jpg)
 
-In this diagram, each instance (the instances of Jean Paul Riopelle, of the gender Male, and of the type Gender) are linked together through properties in accordance with the structure of the corresponding pattern in the model. 
+In this diagram, each instance (the instances of Jean Paul Riopelle, of the gender Male, and of the type Gender) are linked together through properties in accordance with the structure of the corresponding pattern in the model.
