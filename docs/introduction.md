@@ -2,10 +2,6 @@
 
 ## Purpose of the Target Model
 
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2020-04-17T15:53:08.818Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36\&quot; etag=\&quot;rX6k9cBswhtM9rfHQvPJ\&quot; version=\&quot;12.9.14\&quot; type=\&quot;google\&quot;&gt;&lt;diagram id=\&quot;QOot0nk_c6HzNS4jha7X\&quot; name=\&quot;Page-1\&quot;&gt;1Zjvc5owGMf/Gl5uhwQwfauybl135529W/sywgNkDcSLsUr/+iUSBBbr2qurTO+UfJ/8IN8PeRJ10LTYXQuyyn/wBJjjucnOQTPH88bYU59aqGrBR+NayARNamnUCgv6DEZ0jbqhCax7FSXnTNJVX4x5WUIsexoRgm/71VLO+qOuSAaWsIgJs9WfNJG5UUfhVRv4CjTLzdDYM/MrSFPZzGSdk4RvOxKKHDQVnMv6qthNgWnvGl/qdl9eiB5uTEApX9VA3OJnnt/z6Gb+/ebxW1XM3E+mlyfCNmbCke7ZnYNY89LcuKwaNwTflAnoDkcOmmxzKmGxIrGObhV+peWyYCacUsamnHGxb4tSHEMcK30tBX+ETmSJAz9wVcSeUnN/ICTsOpKZ4jXwAqSoVBUTxcZt87gd3N924DVa3uEWGo2Y5yU79Nxaqi6Mq29wGFkOz6+wEpbKSz26al5Krr4YTcEyHBL1NJoiFzLnGS8Ji1p10iLRDrZ1bjlfGRC/QMrKLC2yUYP1MCmvRXXfLTzozj4HTXG2M53XpcqUXoS15hsRwwlLTEqQRGQg//5wag9OohfAiKRP/RV7dpCBDXJcZ6NH7QPTy0ANKy/K0B0aQ39QDK9shr5OBGogNRdawKf1ithp70MJttAeeswuRTAcFEHPIngXLe4cL2RqDpOlUFeZvopCvTgnVJE46y6WEMDp0V0sjDEs0/PsYsgf2jbmW74fPG8sN2a78zoV1lE12KHCEUoBahuck1IAOPGPUcLeEoXheSiF7tAoNafmboLDHtHHDchoaQPgqU4BObQ1LpD6dlTWmc8LTPGhE2oTny68P++Fr8x740HlvZF9Uldkl/oGy+Qk1338klTHQ6KKB0U1tKBGgRbu9FFkcewo8q5fYIF+H9279i/dgpeyo9evf7OnoQBdOFuOX7+nzYjUa2nSzaKnt7b7xezQ7j0Mz+C894fzPr70PoXf7HzUZrn/xnf/A31XxfavpH2s838cin4D&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
-
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1HILva7PuFDfsCg5daNYxTva-BtlwTjBg&amp;export=download&quot;}"></div>
-
 In keeping with its mandate to “assist Canadian museums in documenting, managing, and sharing information about their collections”, the Canadian Heritage Information Network (CHIN) plans to provide the resources it creates and the data it aggregates in linked open data (LOD) [(Canadian Heritage Information Network (CHIN) 2019)](https://www.zotero.org/google-docs/?SqR3pI). This is in order to contribute to the breaking of data silos and give better access to Canadian heritage information online. Before modernising Artefacts Canada (AC) by converting it in accordance with LOD principles, CHIN will work on a smaller scale project titled *SemMuse Actors* (Actors), which will later be part of the larger Collections model supporting Artefacts Canada.
 
 The scope of this project is to consolidate, in unique records, the information pertaining to actors related to objects from Canadian museums collections. An actor includes any individual (artist, artisan, etc.) or group (manufacturer, group of artists, etc.) who took part in the creation of or is related to artefacts collected by Canadian museums.
@@ -81,25 +77,30 @@ The ontological relationships between classes have been represented diagrammatic
 
 It is important to note that in reality it is the instances that are connected to each other through properties, not the classes themselves like the diagrams might imply. For clarity and visibility sake however, modeling patterns will not display instances (they will be represented in examples however, as shown below).
 
-![covention_0](https://user-images.githubusercontent.com/48293227/78846028-6efa0f80-79d8-11ea-8f3b-f264827746da.jpg)
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1tP4V68oU1n7l5HedZXb5nFrfnYu2yHXg&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1tP4V68oU1n7l5HedZXb5nFrfnYu2yHXg%26export%3Ddownload"></script>
 
 For example, the diagram below illustrates that any instance of the class `E21 Person` can be linked to an instance of the class `E55 Type` through the property `P2 has type`.
 
-![convention_1](https://user-images.githubusercontent.com/48293227/78845909-f3985e00-79d7-11ea-88d9-752e22114e97.jpg)
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1xYoDbLQATAwctGv0fto-jThgQ6wxm6D7&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1xYoDbLQATAwctGv0fto-jThgQ6wxm6D7%26export%3Ddownload"></script>
 
 To facilitate understanding and visually convey how CIDOC CRM entities are used to model different kinds of information, the colour conventions below have been adopted to represent top-level classes along with their subclasses.
 
-![convention_colors](https://user-images.githubusercontent.com/48293227/78846111-c304f400-79d8-11ea-8323-90526c44e245.jpg)
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1LMF5iRQKFyNoq5BkehhjQUy8xv1HVs8u&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1LMF5iRQKFyNoq5BkehhjQUy8xv1HVs8u%26export%3Ddownload"></script>
 
 In addition, fields defined in the Reference Documentation are indicated in bold above their respective class name, as shown below:
 
-![convention_2](https://user-images.githubusercontent.com/48293227/78846253-2b53d580-79d9-11ea-9f08-0881d8f33442.jpg)
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1HILva7PuFDfsCg5daNYxTva-BtlwTjBg&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HILva7PuFDfsCg5daNYxTva-BtlwTjBg%26export%3Ddownload"></script>
 
 In the above diagram, the “Birth Place”,  “Birth Date Begin” and “Birth Date End” fields from the Reference Documentation are denoted in bold. In addition to facilitating the understanding of both the Target Model and its Reference Documentation, this also illustrates how the translation of the data to a semantic framework generates several new elements such as `E67 Birth` event and `E52 Time-Span`.
 
 Sometimes, an `E55 Type` can only have a single instance in a specific pattern. In such a case, it is named in quotation marks underneath the name of the class, as follows:
 
-![convention_4](https://user-images.githubusercontent.com/48293227/78846473-e7150500-79d9-11ea-96df-087dfac3ae2c.jpg)
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1qnZZqU6wsy-5dMs86vKqeWtJ-iuNHTlS&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1qnZZqU6wsy-5dMs86vKqeWtJ-iuNHTlS%26export%3Ddownload"></script>
 
 The diagram above represents the gender pattern. The middle element corresponds to the Reference Documentation “Gender” field (hence it is in bold) to signal that the content found in this field indicates the gender of the person (e.g. male, female, two-spirit, …). This information is then typed with another `E55 Type` that always has the “Gender” value to indicate that the aforementioned data (e.g. male, female, two-spirit, …) concerns gender. For example, Jean Paul Riopelle has the type “Male”, and this type has the type “Gender”.
 
@@ -109,6 +110,7 @@ Throughout the documentation each example is represented in a pattern where inst
 
 For example, the triples mapped to the gender pattern mentioned above would look like the following:
 
-![convention_5](https://user-images.githubusercontent.com/48293227/78846668-7de1c180-79da-11ea-801c-f735185662e1.jpg)
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1C8p1lpiLNDykkf1HUK4SVfJ6jf0p6UQ5&amp;export=download&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1C8p1lpiLNDykkf1HUK4SVfJ6jf0p6UQ5%26export%3Ddownload"></script>
 
 In this diagram, each instance (the instances of Jean Paul Riopelle, of the gender Male, and of the type Gender) are linked together through properties in accordance with the structure of the corresponding pattern in the model.
